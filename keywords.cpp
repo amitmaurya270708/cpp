@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
 main(){
-    // int for = 100;   // it will show error because for is reserved keyword
+    // int for = 100;  
+     // it will show error because for is reserved keyword
     // cout << for << endk;
     
     int num = 100;
