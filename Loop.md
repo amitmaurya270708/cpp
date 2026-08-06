@@ -15,9 +15,11 @@ while loop is used when we don't know the number of iteration in advance.
 - It is known as entry or pre-test loop.
 
 ### Syntax 
+```cpp
     while(condition){
         // statements
     }
+```
 
 ### Flowchart 
 
